@@ -1,3 +1,28 @@
 # ToDoList
-## Proiectul reprezinta un site prin care va puteti simplifica viata ne mai fiind nevoie sa retineti minte fiecare lucru pe care tebuie sa il efectuati de exemplu un produs pe care trebuie sa il cumparati sau oti ce alt ceva.
-### Acest proiect este creat in **HTML**, **CSS** si **Java Script** si are ca scop adaugarea ideilor sau a ori ce alt lucru pe care trebuie sa il faceti sau il aveti in minte si doriti sa il retineti undeva.
+
+## Descriere
+
+### ToDoList este o aplicație web simplă și utilă, creată pentru a te ajuta să-ți organizezi sarcinile zilnice. Scopul acestui proiect este să-ți simplifice viața, oferindu-ți un loc unde poți nota rapid ideile, activitățile sau produsele pe care trebuie să le cumperi, astfel încât să nu mai fie nevoie să le ții minte.
+
+## Tehnologii folosite
+
+### Proiectul este realizat folosind:
+
+**HTML**
+
+**CSS**
+
+**JavaScript**
+
+
+## Funcționalități
+
+### Adăugarea de task-uri
+
+### Ștergerea task-urilor completate
+
+### Listă vizuală clară a lucrurilor de făcut
+
+
+## Poți accesa proiectul online aici:
+### 👉 https://to-do-list.andrew-code.com/
